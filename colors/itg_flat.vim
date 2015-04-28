@@ -18,12 +18,12 @@ hi ColorColumn	    guifg=#e4e4e4    ctermfg=254    guibg=#cc4040   ctermbg=252  
 hi Directory	    guifg=#008b8b    ctermfg=33    	gui=none    	cterm=none
 hi Folded	    	guibg=#262626    ctermbg=235    guifg=#8a8a8a   ctermfg=245    	gui=none    cterm=none
 hi Function	    	guifg=#92e4c0    ctermfg=115    gui=none    	cterm=none
-hi Identifier	    guifg=#e0e0e0    ctermfg=254    gui=none    	cterm=none
+hi Identifier	    guifg=#000080    ctermfg=04    gui=none    	cterm=none
 hi LineNr	    	guifg=#606a74    ctermfg=240    gui=none    	cterm=none
 hi MatchParen	    guifg=#ccffcc    ctermfg=252    guibg=#008b8b   ctermbg=33    	gui=none    cterm=none
 hi Normal	    	guifg=#e4e4e4    ctermfg=254    guibg=#282a31   ctermbg=234    	gui=none    cterm=none
 hi NonText	    	guibg=#2D2F36    ctermbg=235    guifg=#d1605e   ctermfg=167    	gui=none    cterm=none
-hi Number	    	guifg=#92e4c0    ctermfg=115    gui=none    	cterm=none
+hi Number	    	guifg=#00ff00    ctermfg=10    gui=none    	cterm=none
 hi PreProc	    	guifg=#d1605e    ctermfg=167    gui=none    	cterm=none
 hi Search			guibg=#d7d7af 	 ctermbg=187	guifg=#000000	ctermfg=0
 hi Statement	    guifg=#d1605e    ctermfg=167    gui=none    	cterm=none
@@ -35,7 +35,7 @@ hi String	    	guifg=#ddc96d    ctermfg=185    gui=none    	cterm=none
 hi StorageClass	    guifg=#bdb76b    ctermfg=250    gui=none    	cterm=none
 hi Title	    	guifg=#e0e0e0    ctermfg=254    gui=none    	cterm=none
 hi Todo	    		guifg=#fffefc    ctermfg=226    gui=none    	cterm=none
-hi Type	    		guifg=#92e4c0    ctermfg=115    gui=none    	cterm=none
+hi Type	    		guifg=#ff5f00    ctermfg=202    gui=none    	cterm=none
 hi Underlined	    guifg=#80a0ff    ctermfg=89    	gui=underline   cterm=underline
 hi VertSplit	    guibg=#2D2F36    ctermbg=236    guifg=#585858   ctermfg=240    	gui=none    cterm=none
 hi Visual	    	guifg=#f0e68c    ctermfg=255    guibg=#6b8e23   ctermbg=242    	gui=none    cterm=none
