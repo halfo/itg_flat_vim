@@ -16,14 +16,17 @@ hi Cursor	   	 	guibg=#f0e68c    ctermbg=255    guifg=#708090   ctermfg=242    	
 hi CursorLine					   	 ctermfg=none   guibg=#404040   ctermbg=237    	gui=none    cterm=none
 hi ColorColumn	    guifg=#e4e4e4    ctermfg=254    guibg=#cc4040   ctermbg=252    	gui=none    cterm=none
 hi Directory	    guifg=#008b8b    ctermfg=33    	gui=none    	cterm=none
+hi Error	    	guibg=#a6e22e    ctermbg=02     guifg=#a6e22e   ctermfg=02     gui=none    cterm=none
 hi Folded	    	guibg=#262626    ctermbg=235    guifg=#8a8a8a   ctermfg=245    	gui=none    cterm=none
 hi Function	    	guifg=#92e4c0    ctermfg=115    gui=none    	cterm=none
-hi Identifier	    guifg=#000080    ctermfg=04    gui=none    	cterm=none
-hi LineNr	    	guibg=#0c0c0c    ctermbg=233    guifg=#606a74    ctermfg=240    gui=none    	cterm=none
+hi Identifier	    guifg=#000080    ctermfg=04     gui=none    	cterm=none
+hi LineNr	    	guibg=#0c0c0c    ctermbg=233    guifg=#606a74   ctermfg=240     gui=none    cterm=none
+hi SignColumn	   	                 ctermbg=234    guibg=#1c1c1c                   gui=none    cterm=none
+hi FoldColumn	   	guibg=#0c0c0c    ctermbg=233    guifg=#a6e22e   ctermfg=02     gui=none    cterm=none
 hi MatchParen	    guifg=#121212    ctermfg=252    guibg=#008b8b   ctermbg=33    	gui=none    cterm=none
 hi Normal	    	guifg=#e4e4e4    ctermfg=254    guibg=#282a31   ctermbg=234    	gui=none    cterm=none
 hi NonText	    	guibg=#2D2F36    ctermbg=235    guifg=#d1605e   ctermfg=167    	gui=none    cterm=none
-hi Number	    	guifg=#00ff00    ctermfg=10    gui=none    	cterm=none
+hi Number	    	guifg=#00ff00    ctermfg=10     gui=none    	cterm=none
 hi PreProc	    	guifg=#d1605e    ctermfg=167    gui=none    	cterm=none
 hi Search			guibg=#d7d7af 	 ctermbg=187	guifg=#000000	ctermfg=0
 hi Statement	    guifg=#d1605e    ctermfg=167    gui=none    	cterm=none
